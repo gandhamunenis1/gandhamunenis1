@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi there! I'm Sai Gireesha Gandhamuneni
 
-<!--
-**gandhamunenis1/gandhamunenis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring **Data Engineer** | 🎓 Master’s in Computer Science (University of Dayton, 2025)  
+📍 Currently in Dayton, OH | 🌩️ AWS Certified | ❄️ SnowPro Core Certified  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+I'm a passionate and certified data engineer with 2+ years of experience designing, developing, and optimizing scalable data pipelines and cloud data workflows. My background includes working with large-scale ETL systems, building real-time data pipelines using Apache Spark and Kafka, and leveraging cloud services like AWS and Snowflake for high-performance analytics.
+
+Currently pursuing my Master’s in Computer Science at the University of Dayton, I’m actively seeking full-time opportunities where I can solve real-world problems using data, cloud, and distributed systems.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, SQL, Java, PySpark, SparkSQL  
+- **Big Data & Streaming:** Apache Spark, Hadoop, Kafka, Airflow  
+- **Cloud:** AWS (S3, Lambda, Glue, Redshift), GCP  
+- **Data Warehousing:** Snowflake, Redshift, MySQL, Teradata  
+- **ETL & Orchestration:** Datastage, Apache Airflow, AWS Glue  
+- **BI & Reporting:** Tableau, Power BI  
+- **Certifications:**  
+  - ✅ AWS Certified Solutions Architect – Associate (2024–2027)  
+  - ✅ SnowPro Core Certified (2025–2027)  
+
+---
+
+## 🔧 Projects
+
+| Project | Description |
+|--------|-------------|
+| [Real-Time Recommendation Engine](https://github.com/gireesha/real_time_recommendation_engine) | Built using Spark Structured Streaming, Kafka, and ALS for product recommendations |
+| Retail Sales Data Warehouse | Designed a full pipeline using Airflow, Snowflake, and Tableau for analytics and reporting |
+| Stock Market Streaming Pipeline | Processed stock feeds in real-time using Kafka → S3 → Athena |
+| Railway Management System | Managed complex relational data with PostgreSQL and Python |
+
+---
+
+## 📬 Let’s Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/gireesha)
+- 📫 Email: gireesha@email.com
+- 🌐 [Portfolio Site](https://your-portfolio.com) *(if you have one)*
+
+---
+
+_“Data is the new oil. I build the refineries.”_
