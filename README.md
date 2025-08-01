@@ -40,9 +40,9 @@ Currently pursuing my Master’s in Computer Science at the University of Dayton
 
 ## 📬 Let’s Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/gireesha)
-- 📫 Email: gireeshachowdary2000@gmail.com
-- 🌐 [Portfolio Site](https://your-portfolio.com) *(if you have one)*
+- 💼 [LinkedIn]: https://www.linkedin.com/in/saigireesha/
+- 📫 Email: gireeshagandhamuneni@gmail.com
+- 🌐 https://gandhamunenis1.github.io/Gireesha-Portfolio/
 
 ---
 
