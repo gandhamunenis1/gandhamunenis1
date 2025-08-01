@@ -7,9 +7,9 @@
 
 ## 💼 About Me
 
-I'm a passionate and certified data engineer with 2+ years of experience designing, developing, and optimizing scalable data pipelines and cloud data workflows. My background includes working with large-scale ETL systems, building real-time data pipelines using Apache Spark and Kafka, and leveraging cloud services like AWS and Snowflake for high-performance analytics.
+I'm a passionate and certified data engineer with around 5 years of experience designing, developing, and optimizing scalable data pipelines and cloud data workflows. My background includes working with large-scale ETL systems, building real-time data pipelines using Apache Spark and Kafka, and leveraging cloud services like AWS and Snowflake for high-performance analytics.
 
-Currently pursuing my Master’s in Computer Science at the University of Dayton, I’m actively seeking full-time opportunities where I can solve real-world problems using data, cloud, and distributed systems.
+ I’m actively seeking full-time opportunities where I can solve real-world problems using data, cloud, and distributed systems.
 
 ---
 
